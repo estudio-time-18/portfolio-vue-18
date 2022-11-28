@@ -1,5 +1,8 @@
 # Dominando Vue 3 (Guia de estudo)
 
+*******
+Referência de estudo: https://vuejsbr-docs-next.netlify.app/guide
+*******
 Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da plataforma oficial .
 
 
