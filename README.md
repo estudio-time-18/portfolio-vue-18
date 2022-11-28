@@ -6,7 +6,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 *******
 ## Overview
 
-  1. [Essenciais](#essenciais)
+  1. [Essenciais (Semana 1)](#essenciais)
   2. Componentes em Detalhes
   3. Transições & Animações
   4. Reuso & Composição
@@ -120,5 +120,23 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 
 ##### ___________________________________________________________________________
 10. Por Que Escutas no HTML?
+
+#### (Dia 6) - Interligações em Formulários
+##### Uso Básico
+1. Input
+2. Textarea
+3. Checkbox
+4. Radio
+5. Select
+##### Interligação de Valores
+6. Checkbox
+7. Radio
+8. Select
+##### Modificadores
+9. .lazy
+10. .number
+11. .trim
+##### ___________________________________________________________________________
+13. v-model com Componentes
 
 *******
