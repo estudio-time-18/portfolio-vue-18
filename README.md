@@ -22,7 +22,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 <div id='essenciais'/>
 
 ### Essenciais (Semana 1)
-
+*******
 #### (Dia 1) - Introdução
 1. O que é Vue.js?
 2. Primeiros Passos
@@ -31,7 +31,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 5. Condicionais e Repetições
 6. Composição com Componentes
 7. Relação com Elementos Customizados7 
-
+*******
 #### (Dia 2) - Instâncias de Aplicação e de Componentes
 1. Criando uma Instância de Aplicação
 2. O Componente Raiz
@@ -53,7 +53,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 11. Abreviação de v-bind
 12. Abreviação de v-on
 13. Ressalvas 
-
+*******
 
 #### (Dia 3) - Propriedades de Dados e Métodos
 1. Propriedades de dados
@@ -67,7 +67,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 3. Atribuição em Dados Computados
 ##### Observadores
 4. Dados Computados vs Observadores
-
+*******
 #### (Dia 4) - Interligação de classe e estilo
 ##### Interligando Classes HTML
 1. Sintaxe de Objeto
@@ -78,7 +78,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 5. Sintaxe de Array
 6. Auto-Prefixação
 7. Valores Múltiplos
-
+*******
 #### (Dia 5) - Renderização de condicionais
 1. v-if
 ##### Grupos Condicionais com v-if em template
@@ -123,7 +123,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 
 ##### ___________________________________________________________________________
 10. Por Que Escutas no HTML?
-
+*******
 #### (Dia 6) - Interligações em Formulários
 ##### Uso Básico
 1. Input
@@ -141,7 +141,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 11. .trim
 ##### ___________________________________________________________________________
 13. v-model com Componentes
-
+*******
 #### (Dia 7) - Básico sobre Componentes
 1. Exemplo Base
 2. Reutilizando Componentes
