@@ -56,4 +56,25 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 1. Propriedades de dados
 ##### Métodos
 2. Debouncing e Throttling
+
+#### (Dia 3) - Dados Computados e Observadores
+##### Dados Computados
+1. Exemplo Básico
+2. Cache de computed vs. Métodos
+3. Atribuição em Dados Computados
+##### Observadores
+4. Dados Computados vs Observadores
+
+#### (Dia 4) - Interligação de classe e estilo
+##### Interligando Classes HTML
+1. Sintaxe de Objeto
+2. Sintaxe de Array
+3. Em Componentes
+#### Interligando Estilos Inline
+4. Sintaxe de Objeto
+5. Sintaxe de Array
+6. Auto-Prefixação
+7. Valores Múltiplos
+
+#### (Dia 5) - Renderização de condicionais
 *******
