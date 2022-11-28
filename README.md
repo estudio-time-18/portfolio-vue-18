@@ -1,4 +1,4 @@
-# Desenvolvendo com Vue 3 (Guia de estudo)
+# Dominando Vue 3 (Guia de estudo)
 
 Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da plataforma oficial .
 
@@ -50,5 +50,10 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 11. Abreviação de v-bind
 12. Abreviação de v-on
 13. Ressalvas 
- 
+
+
+#### (Dia 3) - Propriedades de Dados e Métodos
+1. Propriedades de dados
+##### Métodos
+2. Debouncing e Throttling
 *******
