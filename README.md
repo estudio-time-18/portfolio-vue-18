@@ -77,4 +77,48 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 7. Valores Múltiplos
 
 #### (Dia 5) - Renderização de condicionais
+1. v-if
+##### Grupos Condicionais com v-if em template
+2. template
+3. v-else
+4. v-else-if
+
+##### v-show
+5. v-if vs v-show
+6. v-if com v-for
+
+#### (Dia 5) - Renderização de Listas
+1. Mapeando um Array de Elementos com v-for
+2. v-for com Objetos
+3. Manutenção de Estado
+##### Detecção de Mudanças em Arrays
+5. Métodos de Mutação
+6. Substituindo um Array
+
+##### ___________________________________________________________________________
+
+7. Exibindo Resultados Filtrados/Ordenados
+8. Intervalo Numérico no v-for
+9. Utilizando template com v-for
+10. Utilizando v-if com v-for
+11. Componentes com v-for
+
+#### Manipulação de Eventos
+
+1. Escutando Eventos
+2. Métodos em Manipuladores
+3. Chamada Direta de Métodos
+4. Múltiplos Manipuladores de Eventos
+5. Modificadores de Evento
+##### Modificadores de Teclado
+6. Apelidos de Teclas
+##### ___________________________________________________________________________
+
+##### Modificadores de Teclas do Sistema
+7. Modificador .exact
+8. Modificadores dos Botões do Mouse
+
+##### ___________________________________________________________________________
+10. Por Que Escutas no HTML?
+
 *******
