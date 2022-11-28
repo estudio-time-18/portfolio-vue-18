@@ -139,7 +139,7 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 ##### ___________________________________________________________________________
 13. v-model com Componentes
 
-####(Dia 7) - Básico sobre Componentes
+#### (Dia 7) - Básico sobre Componentes
 1. Exemplo Base
 2. Reutilizando Componentes
 3. Organizando Componentes
