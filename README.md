@@ -139,4 +139,18 @@ Aplicação desenvolvida em Vue, com a finalidade de aprofundamento e estudo da 
 ##### ___________________________________________________________________________
 13. v-model com Componentes
 
+####(Dia 7) - Básico sobre Componentes
+1. Exemplo Base
+2. Reutilizando Componentes
+3. Organizando Componentes
+4. Passando Dados aos Filhos com Propriedades
+##### Escutando Eventos dos Filhos
+5. Emitindo um Valor com um Evento
+6. Usando v-model em Componentes
+##### ___________________________________________________________________________
+7. Distribuição de Conteúdo com Slots
+8. Componentes Dinâmicos
+##### Ressalvas na Análise do template DOM
+9. Restrições na Colocação de Elementos
+10. Insensibilidade entre Maiúsculas e Minúsculas
 *******
